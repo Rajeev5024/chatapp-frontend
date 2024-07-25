@@ -1,0 +1,20 @@
+export const orange="#011627"
+export const sendButtonColor="#25D366"
+// export const nightowl = "#011627";
+export const lightorange="rgba(234,112,112,0.3)"
+export const gray="rgba(247,247,247,1)"
+export const purple="rgba(75,12,192,1)"
+export const lightpurple="rgba(75,12,192,0.2)"
+export const lightblue="#2694ab"
+export const matblack="#1c1c1c"
+export const bgGradient="linear-gradient(135deg, #011627 0%, #414361 100%)"
+export const WarmSunset = "linear-gradient(rgb(255, 126, 95), rgba(254, 180, 123, 0.5))";
+export const OceanBlue = "linear-gradient(rgb(54, 209, 220), rgba(91, 134, 229, 0.5))";
+export const CalmGreen = "linear-gradient(rgb(146, 254, 157), rgba(0, 201, 255, 0.5))";
+export const VibrantViolet = "linear-gradient(rgb(127, 0, 255), rgba(225, 0, 255, 0.5))";
+export const SoftRed = "linear-gradient(rgb(255, 153, 102), rgba(255, 94, 98, 0.5))";
+export const TropicalEvening = "linear-gradient(rgb(255, 154, 158), rgba(250, 208, 196, 0.5))";
+export const AquaMarine = "linear-gradient(rgb(168, 224, 99), rgba(86, 171, 47, 0.5))";
+export const BlueLagoon = "linear-gradient(rgb(67, 206, 162), rgba(24, 90, 157, 0.5))";
+export const SweetMorning = "linear-gradient(rgb(255, 182, 193), rgba(246, 199, 255, 0.5))";
+
